@@ -6,13 +6,13 @@ Em cadernos você pode acessar todas as anotações, consideradas importante pel
 
 
 
-- ###### [Lógica de Programação](cadernos/C.1. INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO.md)
+- ###### [Caderno 1. Lógica de Programação](<https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/blob/main/cadernos/C.1.%20INTRODU%C3%87%C3%83O%20%C3%80%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O.md>)
 
-- ###### Estrutura de Dados
+- ###### Caderno 2. Estrutura de Dados
 
-- ###### Introdução ao Git e ao GitHub
+- ###### Caderno 3. Introdução ao Git e ao GitHub
 
-- ###### Introdução a Gestão de Projetos e ao SCRUM
+- ###### Caderno 4. Introdução a Gestão de Projetos e ao SCRUM
 
 
 
