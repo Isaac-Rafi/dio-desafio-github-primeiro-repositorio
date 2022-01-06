@@ -1,4 +1,4 @@
-# Desafio DIO | Gii-GtiHub Primeiro Repositório | Aluno: Isaac Rafi
+# Desafio DIO | Git-GitHub Primeiro Repositório | Aluno: Isaac Rafi
 Fazendo o primeiro desafio da plataforma DIO:  Criando seu primeiro repositório no Git-GitHub
 
 ## :notebook_with_decorative_cover: Cadernos
@@ -6,9 +6,9 @@ Em cadernos você pode acessar todas as anotações, consideradas importante pel
 
 
 
-- ###### Lógica de Programação
+- ###### [Lógica de Programação](cadernos/C.1. INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO.md)
 
-- ###### Estrutura de Dado
+- ###### Estrutura de Dados
 
 - ###### Introdução ao Git e ao GitHub
 
@@ -17,3 +17,4 @@ Em cadernos você pode acessar todas as anotações, consideradas importante pel
 
 
 :heavy_check_mark: Sejam bem vindos a editar esse documento acrescentando mais informações e corrigindo erros e formatação.
+
