@@ -327,5 +327,5 @@ escreva("Fruta: " + cesta[0][0] + "Quantidade: " + cesta[0][1])
 
 **Aluno:** _Isaac Rafi_
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-Inter.png" alt="Ficheiro:Logo-Inter.png – Wikipédia, a enciclopédia livre" style="zoom:15%;"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-Inter.png" alt="Ficheiro:Logo-Inter.png – Wikipédia, a enciclopédia livre" style="zoom:5%;"/> 
 <img src="https://miriangasparin.com.br/wp-content/uploads/2019/11/Digital-Innovation-One.png" style="zoom:80%;"/>
