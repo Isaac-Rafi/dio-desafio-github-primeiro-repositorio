@@ -83,4 +83,4 @@ Imagens e vídeos...
 
 - [README](https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/blob/main/README.md)
 - [Cadernos](https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/tree/main/cadernos)
-- Materiais de Apoio
+- [Materiais de Apoio](<https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/tree/main/Materiais%20de%20Apoio>)

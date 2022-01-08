@@ -30,7 +30,7 @@ Em cadernos você pode acessar todas as anotações, consideradas importante pel
 
 
 
-## :books: Materiais de Apoio
+## :books: [Materiais de Apoio](<https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/tree/main/Materiais%20de%20Apoio>)
 Separamos alguns materiais de apoio para você se familiarizar ainda mais com as aulas.
 
 - ###### [Materia de Apoio CSS3](<https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/blob/main/cadernos/Material%20de%20Apoio%20CSS3.md>)
