@@ -61,7 +61,7 @@ Nota 4: 3
 
 
 
-###### Ex. em jogo para entender e treinar algoritmo e pseudocódigo: <br/> https://studio.code.org/s/mc/lessons/1/levels/12
+###### Ex. em jogo para entender e treinar algoritmo e pseudocódigo: <br/>https://studio.code.org/s/mc/lessons/1/levels/12
 
 
 
@@ -239,7 +239,7 @@ media=(nota1+nota2)/2
 
 ###### Linguagens de Programação e o Portugol
 
-**Linguagens de Programação =** é uma linguagem escrita e formal que específica um conjunto de instruções e regras usadas para gerar programas (softwares). Um software pode ser desenvolvido pra rodar em um computador , dispositivo móvel ou em qualquer equipamento que permita sua execução.<br/> **Também é =** servir de um meio de comunicação entre computadores e humanos
+**Linguagens de Programação =** é uma linguagem escrita e formal que específica um conjunto de instruções e regras usadas para gerar programas (softwares). Um software pode ser desenvolvido pra rodar em um computador , dispositivo móvel ou em qualquer equipamento que permita sua execução.<br/>**Também é =** servir de um meio de comunicação entre computadores e humanos
 
 ###### Existem 2 tipos de linguagem:
 **Alto Nível:** Essas são aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina
