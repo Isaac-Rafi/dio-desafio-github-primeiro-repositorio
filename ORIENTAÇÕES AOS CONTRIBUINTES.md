@@ -8,7 +8,11 @@ Este documento tem uma responsabilidade de alinhar as contribuições de acordo 
 
 
 
-**Orientações:** Nós orientamos a todos que querem contribuir com este projeto, que primeiramente, abra o arquivo e observe sua identidade visual, toda formatação e estilos para que possa acrescentar mais conteúdo de forma correta. Caso haja dúvidas 
+:red_circle: **Orientações:** Nós orientamos a todos que querem contribuir com este projeto, que primeiramente, abra o arquivo e observe sua identidade visual, toda formatação e estilos para que possa acrescentar mais conteúdo de forma correta. Caso haja dúvidas 
+
+:red_circle: **Regras:** Sempre que for comitar adicione um comentário do que foi feito, em **português**, exemplo: 
+
+*git commit -m "ajustei o link que estava errado"*.
 
 
 
@@ -68,3 +72,15 @@ Citações...
 ## Imagens e vídeos
 
 Imagens e vídeos...
+
+
+
+
+
+
+
+###### Navegação
+
+- [README](https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/blob/main/README.md)
+- [Cadernos](https://github.com/Isaac-Rafi/dio-desafio-github-primeiro-repositorio/tree/main/cadernos)
+- Materiais de Apoio
